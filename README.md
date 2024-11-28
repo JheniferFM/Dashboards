@@ -17,10 +17,5 @@ Este projeto consiste em uma análise fictícia de vendas utilizando Python para
 - **Power BI**
 
 ## Visualizações
-![Gráfico de Vendas](grafico1.png)
-![Gráfico de Lucro](grafico2.png)
+![Gráfico ](dashboard.pdf)
 
-## Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/projeto-powerbi-vendas.git
