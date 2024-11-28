@@ -17,5 +17,5 @@ Este projeto consiste em uma análise fictícia de vendas utilizando Python para
 - **Power BI**
 
 ## Visualizações
-![Gráfico ](dashboard.pdf)
+![Gráfico ](Dashboard.jpg)
 
